@@ -15,7 +15,7 @@ def clear():
 
 print()
 print("--------------------------------------------------------------------")
-print("Welcome to Python Bite - A Python version of the classic Hangman.")
+print("Welcome to Python Byte - A Python version of the classic Hangman.")
 print("Brought to you by your homie Jon Dawson!")
 print("--------------------------------------------------------------------")
 sleep(5)
